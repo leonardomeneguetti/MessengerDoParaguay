@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="name">Name</string>
+    <string name="full_name">Full name</string>
+    <string name="signup">Sign up</string>
+    <string name="new_message">New message</string>
+    <string name="to">To:</string>
+    <string name="preferences">Preferences</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="active_status">Active status</string>
+    <string name="accessibility">Accessibility</string>
+    <string name="privacy_and_safety">Prvacy and Safety</string>
+    <string name="notifications">Notifications</string>
+    <string name="account">Account</string>
+    <string name="log_out">Log out</string>
+    <string name="delete_account">Delete account</string>
+</resources>
